@@ -1,0 +1,25 @@
+name: tesla_fleet_api
+description: A Dart package for interacting with Tesla Fleet API
+version: 1.0.0
+homepage: https://github.com/cutmail/tesla_fleet_api
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.1.0
+  crypto: ^3.0.3
+  jwt_decode: ^0.3.1
+  json_annotation: ^4.8.1
+
+dev_dependencies:
+  test: ^1.24.0
+  build_runner: ^2.4.7
+  json_serializable: ^6.7.1
+  lints: ^6.0.0
+
+topics:
+  - tesla
+  - api
+  - fleet
+  - automotive

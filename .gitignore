@@ -1,0 +1,40 @@
+# Dart/Flutter specific
+.dart_tool/
+.packages
+pubspec.lock
+
+# Build artifacts
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Generated files
+*.g.dart
+
+# Environment files
+.env
+.env.local
+
+# API keys and secrets
+*.key
+*.pem
+secrets.json
+
+# Logs
+*.log
+
+# Claude AI assistant files
+.claude/
