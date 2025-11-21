@@ -12,7 +12,7 @@ jobs:
 
     strategy:
       matrix:
-        sdk: [stable, beta, 3.1.0]
+        sdk: [stable, beta]
 
     steps:
       - name: Checkout code
