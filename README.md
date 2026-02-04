@@ -349,7 +349,7 @@ The package automatically handles rate limiting by throwing `TeslaRateLimitExcep
 
 ## Requirements
 
-- Dart SDK >= 3.0.0
+- Dart SDK >= 3.5.0
 - Active Tesla Developer Account
 - Tesla vehicle or energy product for testing (some endpoints)
 
